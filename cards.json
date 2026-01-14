@@ -1,0 +1,962 @@
+[
+  {
+    "code": "CHSC#525",
+    "name": "Chuu",
+    "group": "Soloist",
+    "era": "XO, My Cyberlove",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357015/irene-bot/chuu-soloist-common.png"
+  },
+  {
+    "code": "CHSR#636",
+    "name": "Chuu",
+    "group": "Soloist",
+    "era": "XO, My Cyberlove",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357017/irene-bot/chuu-soloist-rare.png"
+  },
+  {
+    "code": "CHSE#109",
+    "name": "Chuu",
+    "group": "Soloist",
+    "era": "XO, My Cyberlove",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357016/irene-bot/chuu-soloist-epic.png"
+  },
+  {
+    "code": "GIAC#169",
+    "name": "Giselle",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357022/irene-bot/Giselle-aespa-common.png"
+  },
+  {
+    "code": "GIAR#555",
+    "name": "Giselle",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357028/irene-bot/Giselle-aespa-rare.png"
+  },
+  {
+    "code": "GIAE#348",
+    "name": "Giselle",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357024/irene-bot/Giselle-aespa-epic.png"
+  },
+  {
+    "code": "GOLC#198",
+    "name": "Gowon",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357030/irene-bot/Gowon-lossemble-common.png"
+  },
+  {
+    "code": "GOLR#163",
+    "name": "Gowon",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357034/irene-bot/Gowon-lossemble-rare.png"
+  },
+  {
+    "code": "GOLE#810",
+    "name": "Gowon",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357033/irene-bot/Gowon-lossemble-epic.png"
+  },
+  {
+    "code": "HAXC#836",
+    "name": "Haru",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357036/irene-bot/haru-xlov-common.png"
+  },
+  {
+    "code": "HAXR#501",
+    "name": "Haru",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357042/irene-bot/haru-xlov-rare.png"
+  },
+  {
+    "code": "HAXE#684",
+    "name": "Haru",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357039/irene-bot/haru-xlov-epic.png"
+  },
+  {
+    "code": "HAKC#276",
+    "name": "Haum",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357044/irene-bot/haum-kiiikiii-common.png"
+  },
+  {
+    "code": "HAKR#498",
+    "name": "Haum",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357050/irene-bot/haum-kiiikiii-rare.png"
+  },
+  {
+    "code": "HAKE#091",
+    "name": "Haum",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357048/irene-bot/haum-kiiikiii-epic.png"
+  },
+  {
+    "code": "HEEC#278",
+    "name": "Heeseung",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357053/irene-bot/Heeseung-enhypen-common.png"
+  },
+  {
+    "code": "HEER#587",
+    "name": "Heeseung",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357055/irene-bot/Heeseung-enhypen-rare.png"
+  },
+  {
+    "code": "HEEE#693",
+    "name": "Heeseung",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357054/irene-bot/Heeseung-enhypen-epic.png"
+  },
+  {
+    "code": "HYLC#808",
+    "name": "Hyeju",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357059/irene-bot/Hyeju-loossemble-common.png"
+  },
+  {
+    "code": "HYLR#846",
+    "name": "Hyeju",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357061/irene-bot/Hyeju-loossemble-rare.png"
+  },
+  {
+    "code": "HYLE#730",
+    "name": "Hyeju",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357060/irene-bot/Hyeju-loossemble-epic.png"
+  },
+  {
+    "code": "HYXC#289",
+    "name": "Hyun",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357064/irene-bot/hyun-xlov-common.png"
+  },
+  {
+    "code": "HYXR#498",
+    "name": "Hyun",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357067/irene-bot/hyun-xlov-rare.png"
+  },
+  {
+    "code": "HYXE#181",
+    "name": "Hyun",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357066/irene-bot/hyun-xlov-epic.png"
+  },
+  {
+    "code": "HYLC#452",
+    "name": "Hyunjin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357069/irene-bot/Hyunjin-loossemble-common.png"
+  },
+  {
+    "code": "HYLR#634",
+    "name": "Hyunjin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357071/irene-bot/Hyunjin-loossemble-rare.png"
+  },
+  {
+    "code": "HYLE#248",
+    "name": "Hyunjin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357070/irene-bot/Hyunjin-loossemble-epic.png"
+  },
+  {
+    "code": "IRDC#907",
+    "name": "Irene",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357076/irene-bot/irene-duo-common.png"
+  },
+  {
+    "code": "IRDR#367",
+    "name": "Irene",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357078/irene-bot/irene-duo-rare.png"
+  },
+  {
+    "code": "IRDE#859",
+    "name": "Irene",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357077/irene-bot/irene-duo-epic.png"
+  },
+  {
+    "code": "IRRVC#037",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Beta Test",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357072/irene-bot/irene-beta-common.png"
+  },
+  {
+    "code": "IRRVR#090",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Beta Test",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357075/irene-bot/irene-beta-rare.png"
+  },
+  {
+    "code": "IRRVE#445",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Beta Test",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357074/irene-bot/irene-beta-epic.png"
+  },
+  {
+    "code": "IRRVC#676",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357080/irene-bot/irene-redvelvet-common.png"
+  },
+  {
+    "code": "IRRVR#090",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357083/irene-bot/irene-redvelvet-rare.png"
+  },
+  {
+    "code": "IRRVE#981",
+    "name": "Irene",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357082/irene-bot/irene-redvelvet-epic.png"
+  },
+  {
+    "code": "IRSC#083",
+    "name": "Irene",
+    "group": "Soloist",
+    "era": "Like A Flower",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357084/irene-bot/irene-soloist-common.png"
+  },
+  {
+    "code": "IRSR#759",
+    "name": "Irene",
+    "group": "Soloist",
+    "era": "Like A Flower",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357086/irene-bot/irene-soloist-rare.png"
+  },
+  {
+    "code": "IRSE#660",
+    "name": "Irene",
+    "group": "Soloist",
+    "era": "Like A Flower",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357085/irene-bot/irene-soloist-epic.png"
+  },
+  {
+    "code": "JAEC#523",
+    "name": "Jake",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357087/irene-bot/Jake-enhypen-common.png"
+  },
+  {
+    "code": "JAER#838",
+    "name": "Jake",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357090/irene-bot/Jake-enhypen-rare.png"
+  },
+  {
+    "code": "JAEE#527",
+    "name": "Jake",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357088/irene-bot/jake-enhypen-epic.png"
+  },
+  {
+    "code": "JAEC#877",
+    "name": "Jay",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357091/irene-bot/Jay-enhypen-common.png"
+  },
+  {
+    "code": "JAER#512",
+    "name": "Jay",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357093/irene-bot/Jay-enhypen-rare.png"
+  },
+  {
+    "code": "JAEE#127",
+    "name": "Jay",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357092/irene-bot/Jay-enhypen-epic.png"
+  },
+  {
+    "code": "JIKC#510",
+    "name": "Jiyu",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357095/irene-bot/jiyu-kiiikiii-common.png"
+  },
+  {
+    "code": "JIKR#950",
+    "name": "Jiyu",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357099/irene-bot/jiyu-kiiikiii-rare.png"
+  },
+  {
+    "code": "JIKE#170",
+    "name": "Jiyu",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357096/irene-bot/jiyu-kiiikiii-epic.png"
+  },
+  {
+    "code": "JORVC#949",
+    "name": "Joy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357100/irene-bot/joy-redvelvet-common.png"
+  },
+  {
+    "code": "JORVR#964",
+    "name": "Joy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357102/irene-bot/joy-redvelvet-rare.png"
+  },
+  {
+    "code": "JORVE#624",
+    "name": "Joy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357101/irene-bot/joy-redvelvet-epic.png"
+  },
+  {
+    "code": "JOSC#966",
+    "name": "Joy",
+    "group": "Soloist",
+    "era": "From Joy, With Love",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357104/irene-bot/joy-soloist-common.png"
+  },
+  {
+    "code": "JOSR#134",
+    "name": "Joy",
+    "group": "Soloist",
+    "era": "From Joy, With Love",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357106/irene-bot/joy-soloist-rare.png"
+  },
+  {
+    "code": "JOSE#484",
+    "name": "Joy",
+    "group": "Soloist",
+    "era": "From Joy, With Love",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357104/irene-bot/joy-soloist-epic.png"
+  },
+  {
+    "code": "JUEC#734",
+    "name": "Jungwon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357107/irene-bot/Jungwon-enhypen-common.png"
+  },
+  {
+    "code": "JUER#143",
+    "name": "Jungwon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357109/irene-bot/Jungwon-enhypen-rare.png"
+  },
+  {
+    "code": "JUEE#430",
+    "name": "Jungwon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357108/irene-bot/Jungwon-enhypen-epic.png"
+  },
+  {
+    "code": "KAAC#147",
+    "name": "Karina",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357110/irene-bot/Karina-aespa-common.png"
+  },
+  {
+    "code": "KAAR#062",
+    "name": "Karina",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357114/irene-bot/Karina-aespa-rare.png"
+  },
+  {
+    "code": "KAAE#730",
+    "name": "Karina",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357112/irene-bot/Karina-aespa-epic.png"
+  },
+  {
+    "code": "KYKC#570",
+    "name": "Kya",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357116/irene-bot/kya-kiiikiii-common.png"
+  },
+  {
+    "code": "KYKR#654",
+    "name": "Kya",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357119/irene-bot/kya-kiiikiii-rare.png"
+  },
+  {
+    "code": "KYKE#886",
+    "name": "Kya",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357117/irene-bot/kya-kiiikiii-epic.png"
+  },
+  {
+    "code": "LEKC#737",
+    "name": "Leesol",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357121/irene-bot/leesol-kiiikiii-common.png"
+  },
+  {
+    "code": "LEKR#889",
+    "name": "Leesol",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357124/irene-bot/leesol-kiiikiii-rare.png"
+  },
+  {
+    "code": "LEKE#018",
+    "name": "Leesol",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357122/irene-bot/leesol-kiiikiii-epic.png"
+  },
+  {
+    "code": "NIEC#083",
+    "name": "Ni-ki",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357125/irene-bot/Ni-ki-enhypen-common.png"
+  },
+  {
+    "code": "NIER#188",
+    "name": "Ni-ki",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357127/irene-bot/Ni-ki-enhypen-rare.png"
+  },
+  {
+    "code": "NIEE#770",
+    "name": "Ni-ki",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357126/irene-bot/Ni-ki-enhypen-epic.png"
+  },
+  {
+    "code": "NIAC#868",
+    "name": "Ningning",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357128/irene-bot/Ningning-aespa-common.png"
+  },
+  {
+    "code": "NIAR#290",
+    "name": "Ningning",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357132/irene-bot/Ningning-aespa-rare.png"
+  },
+  {
+    "code": "NIAE#765",
+    "name": "Ningning",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357130/irene-bot/Ningning-aespa-epic.png"
+  },
+  {
+    "code": "RUXC#758",
+    "name": "Rui",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357133/irene-bot/rui-xlov-common.png"
+  },
+  {
+    "code": "RUXR#788",
+    "name": "Rui",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357135/irene-bot/rui-xlov-rare.png"
+  },
+  {
+    "code": "RUXE#780",
+    "name": "Rui",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357134/irene-bot/rui-xlov-epic.png"
+  },
+  {
+    "code": "SEDC#392",
+    "name": "Seulgi",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357137/irene-bot/seulgi-duo-common.png"
+  },
+  {
+    "code": "SEDR#137",
+    "name": "Seulgi",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357139/irene-bot/seulgi-duo-rare.png"
+  },
+  {
+    "code": "SEDE#656",
+    "name": "Seulgi",
+    "group": "Duo",
+    "era": "TILT",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357138/irene-bot/seulgi-duo-epic.png"
+  },
+  {
+    "code": "SERVC#888",
+    "name": "Seulgi",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357140/irene-bot/seulgi-redvelvet-common.png"
+  },
+  {
+    "code": "SERVR#627",
+    "name": "Seulgi",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357142/irene-bot/seulgi-redvelvet-rare.png"
+  },
+  {
+    "code": "SERVE#564",
+    "name": "Seulgi",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357141/irene-bot/seulgi-redvelvet-epic.png"
+  },
+  {
+    "code": "SESC#257",
+    "name": "Seulgi",
+    "group": "Soloist",
+    "era": "Accidentaly On Purpose",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357143/irene-bot/seulgi-soloist-common.png"
+  },
+  {
+    "code": "SESR#044",
+    "name": "Seulgi",
+    "group": "Soloist",
+    "era": "Accidentaly On Purpose",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357146/irene-bot/seulgi-soloist-rare.png"
+  },
+  {
+    "code": "SESE#181",
+    "name": "Seulgi",
+    "group": "Soloist",
+    "era": "Accidentaly On Purpose",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357145/irene-bot/seulgi-soloist-epic.png"
+  },
+  {
+    "code": "SOSC#624",
+    "name": "Soojin",
+    "group": "Soloist",
+    "era": "AGASSY",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357147/irene-bot/Soojin-soloist-common.png"
+  },
+  {
+    "code": "SOSR#969",
+    "name": "Soojin",
+    "group": "Soloist",
+    "era": "AGASSY",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357150/irene-bot/Soojin-soloist-rare.png"
+  },
+  {
+    "code": "SOSE#245",
+    "name": "Soojin",
+    "group": "Soloist",
+    "era": "AGASSY",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357149/irene-bot/Soojin-soloist-epic.png"
+  },
+  {
+    "code": "SUKC#351",
+    "name": "Sui",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357152/irene-bot/sui-kiiikiii-common.png"
+  },
+  {
+    "code": "SUKR#092",
+    "name": "Sui",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357155/irene-bot/sui-kiiikiii-rare.png"
+  },
+  {
+    "code": "SUKE#785",
+    "name": "Sui",
+    "group": "KiiiKiii",
+    "era": "Uncut Gem",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357154/irene-bot/sui-kiiikiii-epic.png"
+  },
+  {
+    "code": "SUEC#737",
+    "name": "Sunghoon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357157/irene-bot/Sunghoon-enhypen-common.png"
+  },
+  {
+    "code": "SUER#515",
+    "name": "Sunghoon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357159/irene-bot/Sunghoon-enhypen-rare.png"
+  },
+  {
+    "code": "SUEE#752",
+    "name": "Sunghoon",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357158/irene-bot/Sunghoon-enhypen-epic.png"
+  },
+  {
+    "code": "SUEC#195",
+    "name": "Sunoo",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357159/irene-bot/Sunoo-enhypen-common.png"
+  },
+  {
+    "code": "SUER#299",
+    "name": "Sunoo",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357161/irene-bot/Sunoo-enhypen-rare.png"
+  },
+  {
+    "code": "SUEE#504",
+    "name": "Sunoo",
+    "group": "ENHYPEN",
+    "era": "ROMANCE : UNTOLD",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357160/irene-bot/Sunoo-enhypen-epic.png"
+  },
+  {
+    "code": "VILC#272",
+    "name": "Vivi",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357163/irene-bot/Vivi-loossemble-common.png"
+  },
+  {
+    "code": "VILR#259",
+    "name": "Vivi",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357164/irene-bot/Vivi-loossemble-rare.png"
+  },
+  {
+    "code": "VILE#903",
+    "name": "Vivi",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357163/irene-bot/Vivi-loossemble-epic.png"
+  },
+  {
+    "code": "WERVC#243",
+    "name": "Wendy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357166/irene-bot/wendy-redvelvet-common.png"
+  },
+  {
+    "code": "WERVR#130",
+    "name": "Wendy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357169/irene-bot/wendy-redvelvet-rare.png"
+  },
+  {
+    "code": "WERVE#850",
+    "name": "Wendy",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357167/irene-bot/wendy-redvelvet-epic.png"
+  },
+  {
+    "code": "WESC#313",
+    "name": "Wendy",
+    "group": "Soloist",
+    "era": "Cerulean Verge",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357169/irene-bot/wendy-soloist-common.png"
+  },
+  {
+    "code": "WESR#147",
+    "name": "Wendy",
+    "group": "Soloist",
+    "era": "Cerulean Verge",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357171/irene-bot/wendy-soloist-rare.png"
+  },
+  {
+    "code": "WESE#929",
+    "name": "Wendy",
+    "group": "Soloist",
+    "era": "Cerulean Verge",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357171/irene-bot/wendy-soloist-epic.png"
+  },
+  {
+    "code": "WIAC#713",
+    "name": "Winter",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357173/irene-bot/Winter-aespa-common.png"
+  },
+  {
+    "code": "WIAR#802",
+    "name": "Winter",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357182/irene-bot/Winter-aespa-rare.png"
+  },
+  {
+    "code": "WIAE#149",
+    "name": "Winter",
+    "group": "aespa",
+    "era": "Dirty Work",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357180/irene-bot/Winter-aespa-epic.png"
+  },
+  {
+    "code": "WUXC#823",
+    "name": "Wumuti",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357183/irene-bot/wumuti-xlov-common.png"
+  },
+  {
+    "code": "WUXR#993",
+    "name": "Wumuti",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357185/irene-bot/wumuti-xlov-rare.png"
+  },
+  {
+    "code": "WUXE#640",
+    "name": "Wumuti",
+    "group": "XLOV",
+    "era": "UXLXVE",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357184/irene-bot/wumuti-xlov-epic.png"
+  },
+  {
+    "code": "YELC#676",
+    "name": "Yeojin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357186/irene-bot/Yeojin-loossemble-common.png"
+  },
+  {
+    "code": "YELR#274",
+    "name": "Yeojin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357189/irene-bot/Yeojin-loossemble-rare.png"
+  },
+  {
+    "code": "YELE#027",
+    "name": "Yeojin",
+    "group": "LOOSSEMBLE",
+    "era": "One Of A Kind",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357188/irene-bot/Yeojin-loossemble-epic.png"
+  },
+  {
+    "code": "YERVC#737",
+    "name": "Yeri",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357190/irene-bot/yeri-redvelvet-common.png"
+  },
+  {
+    "code": "YERVR#601",
+    "name": "Yeri",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357191/irene-bot/yeri-redvelvet-rare.png"
+  },
+  {
+    "code": "YERVE#133",
+    "name": "Yeri",
+    "group": "Red Velvet",
+    "era": "Chill Kill",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357190/irene-bot/yeri-redvelvet-epic.png"
+  },
+  {
+    "code": "YVSC#891",
+    "name": "Yves",
+    "group": "Soloist",
+    "era": "Soft Error",
+    "rarity": "common",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357192/irene-bot/yves-soloist-common.png"
+  },
+  {
+    "code": "YVSR#975",
+    "name": "Yves",
+    "group": "Soloist",
+    "era": "Soft Error",
+    "rarity": "rare",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357194/irene-bot/yves-soloist-rare.png"
+  },
+  {
+    "code": "YVSE#556",
+    "name": "Yves",
+    "group": "Soloist",
+    "era": "Soft Error",
+    "rarity": "epic",
+    "image": "https://res.cloudinary.com/dvbpf7kuy/image/upload/v1768357193/irene-bot/yves-soloist-epic.png"
+  }
+]

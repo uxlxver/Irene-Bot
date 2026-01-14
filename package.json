@@ -1,0 +1,15 @@
+{
+  "name": "irene-bot",
+  "version": "0.1.0",
+  "description": "Seu novo K-Bot favorito!",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Sasa",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
